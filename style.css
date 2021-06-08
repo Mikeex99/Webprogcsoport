@@ -24,3 +24,11 @@ header{
     top: 0px;
     position: absolute;
 }
+#tartalom{
+    width: 90%;
+    height: auto;
+    left: 5%;
+    position: absolute;
+    text-align: center;
+    }
+
