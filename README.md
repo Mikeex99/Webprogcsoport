@@ -2,4 +2,4 @@
 
 
 asdasd
-Adrián buta szegény
+Boros nem érti az értelmezési tartományom elemeinek kulcsfontosságú részeit

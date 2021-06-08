@@ -22,7 +22,7 @@ header{
     height: 30px;
     left: 5%;
     top: 0px;
-    position: absolute;
+    position: relative;
 }
 #tartalom{
     width: 90%;
@@ -30,5 +30,12 @@ header{
     left: 5%;
     position: absolute;
     text-align: center;
+<<<<<<< HEAD
+    font-size: 30px;
     }
-
+#mercimotor{
+    height: 250px;
+}
+=======
+}
+>>>>>>> 73f1f52e2ae4f04ec5e3e54b3ba28c33266eed33
