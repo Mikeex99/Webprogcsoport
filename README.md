@@ -2,5 +2,4 @@
 
 
 asdasd
-Boros homogén
-
+Adrián buta szegény
