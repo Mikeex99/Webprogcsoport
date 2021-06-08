@@ -1,13 +1,14 @@
 body{
     margin: auto;
+    background-color: #3f3f4f;
 }
 footer{
     background-color: black;
     color: whitesmoke;
     font-size: 20px;
     text-align: center;
-    position: absolute;
-    bottom: -100%;
+    position: fixed;
+    bottom: 0px;
     width: 90%;
     height: 30px;
     left: 5%;
@@ -34,6 +35,9 @@ header{
     position: absolute;
     text-align: center;
     font-size: 30px;
+    padding-bottom: 30px;
+    color: blanchedalmond;
+    background-color: darkblue;
 }
 
 
