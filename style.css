@@ -30,12 +30,14 @@ header{
     left: 5%;
     position: absolute;
     text-align: center;
-<<<<<<< HEAD
     font-size: 30px;
     }
 #mercimotor{
-    height: 250px;
+    height: 200px;
 }
-=======
+#driftmerci{
+    height: 220px;
 }
->>>>>>> 73f1f52e2ae4f04ec5e3e54b3ba28c33266eed33
+#mercikep{
+    height: 180px;
+}
