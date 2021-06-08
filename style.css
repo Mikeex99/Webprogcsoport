@@ -9,3 +9,10 @@ footer{
     height: 30px;
     left: 5%;
 }
+button{
+    border-radius: 20px;
+    background-color: rgb(43, 41, 41);
+    color: whitesmoke;
+    font-size: 20px;
+    float: right;
+}
