@@ -36,10 +36,6 @@ header{
     font-size: 30px;
 }
 
-#audikep{
-    width: 30%;
-    float: left;
-}
 
 #mercimotor{
     height: 200px;
@@ -91,6 +87,10 @@ header{
 
 
 
+#audikep{
+    width: 30%;
+    float: left;
+}
 
 
 
