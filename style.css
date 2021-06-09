@@ -33,7 +33,7 @@ header{
     height: auto;
     left: 5%;
     position: absolute;
-    text-align: center;
+    text-align: left;
     font-size: 30px;
     padding-bottom: 30px;
     color: blanchedalmond;
@@ -58,10 +58,15 @@ header{
 
 
 #mercimotor{
-    height: 200px;
+    width: 30%;
+    float: right;
 }
 #driftmerci{
-    height: 200px;
+    width: 30%;
+    float: left;
+}
+#mercikep{
+    width: 30%;
 }
 
 
