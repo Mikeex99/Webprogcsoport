@@ -58,12 +58,15 @@ header{
 
 
 #mercimotor{
-    height: 30%;
+    width: 30%;
     float: right;
 }
 #driftmerci{
-    height: 30%;
+    width: 30%;
     float: left;
+}
+#mercikep{
+    width: 30%;
 }
 
 
