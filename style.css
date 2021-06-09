@@ -58,10 +58,12 @@ header{
 
 
 #mercimotor{
-    height: 200px;
+    height: 30%;
+    float: right;
 }
 #driftmerci{
-    height: 200px;
+    height: 30%;
+    float: left;
 }
 
 
