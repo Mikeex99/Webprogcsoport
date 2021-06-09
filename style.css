@@ -112,8 +112,14 @@ header{
 
 
 #audikep{
+    padding-left: 10px;
+    padding-right: 25px;
     width: 30%;
     float: left;
+}
+
+.auditartalom{
+    
 }
 
 
