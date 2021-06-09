@@ -21,10 +21,10 @@ footer{
     position: absolute;
     text-align: center;
     font-size: 30px;
-    padding: 10px;
     color: blanchedalmond;
     background-color: darkblue;
     padding-bottom: 30px;
+    margin-top: 100px;
 }
 
 #bmwkep{
@@ -40,6 +40,23 @@ footer{
     float: left;
 }
 
+/*Menü*/
+#rolunk{
+    float: left;
+}
+
+header{
+    background-color: lightblue;
+    width: 90%;
+    left: 5%;
+    background-size: cover;
+    background-position: bottom;
+    padding: 20px 0px;
+    box-shadow: 1px 0px 5px black;
+    position: fixed;
+    top: 0%;
+}
+
 .menu{
     width: 100%;
     background-color: rgb(45, 10, 4);
@@ -50,14 +67,10 @@ footer{
     font-size: 1.2em;
     list-style-type: none;
     float: right;
-    padding: 15px 10px;
+    padding: 15px 0px;
     text-align: center;
-    margin-right: 10px;
     width: 200px;
-}
-
-#rolunk{
-    float: left;
+    margin-right: 20px;
 }
 
 .menu li:hover{
@@ -68,23 +81,6 @@ footer{
     text-decoration: none;
     color: rgb(226, 105, 25);
 }
-
-header{
-    width: 100%;
-    background-size: cover;
-    background-position: bottom;
-    padding: 60px 0px;
-    box-shadow: 1px 0px 5px black;
-}
-
-header h1{
-    padding-left: 20px;
-    background-color: rgba(16, 63, 85, 0.7);
-    font-size: 3.5em;
-    text-shadow: 2px 2px black;
-}
-
-
 
 
 
