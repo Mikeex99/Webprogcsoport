@@ -2,6 +2,14 @@ body{
     background-color: #3f3f4f;
 }
 
+p{
+    text-align: justify;
+}
+
+h3{
+    color: rgb(150, 120, 120);
+}
+
 #tartalom{
     width: 95%;
     height: auto;
@@ -25,6 +33,25 @@ footer{
     width: 100%;
     left: 0%;
     height: 30px;
+}
+
+#footertartalom{
+    margin: 3px auto;
+}
+
+/*Képek*/
+.img-nagyit{
+    height: 120px;
+    border-radius: 6px;
+    padding: 2px;
+    background-color: gray;
+    filter: grayscale(100%);
+    
+}
+
+.img-nagyit:hover{
+    box-shadow: 0 0 10px gray;
+    filter: grayscale(0%);
 }
 
 /*Menü*/
@@ -84,7 +111,6 @@ header{
     float: left;
 }
 
-
 /*Merci*/
 #mercimotor{
     width: 20%; 
@@ -93,18 +119,15 @@ header{
 
 #driftmerci{
     width: 30%;
-    display: inline;
+    padding-right: 20px;
     float: right;
+    padding-bottom: 30px;
 }
 
 #mercikep{
     width: 20%;
-    display: inline;
     float: left;
-}
-
-.asd{
-    display: inline;
+    padding-right: 20px;
 }
 
 /*Audi*/
@@ -119,21 +142,12 @@ header{
     padding-top: 20px;
 }
 
-.img-audi{
-    height: 150px;
-    border: 1px solid gray;
-    border-radius: 6px;
-    padding: 6px;
-    background-color: white;
-    filter: grayscale(100%);
-    
+.auditartalom{
+    text-align: left;
 }
 
-.img-audi:hover{
-    box-shadow: 0 0 10px gray;
-    filter: grayscale(0%);
-    height: 165px;
-    transform: translateY(10px);
+#ismerteto{
+    text-align: left;
 }
 
 a{
