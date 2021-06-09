@@ -112,16 +112,12 @@ header{
 }
 
 /*Merci*/
-#mercimotor{
-    width: 20%; 
-    padding: 10px;
-}
-
 #driftmerci{
     width: 30%;
     padding-right: 20px;
     float: right;
     padding-bottom: 30px;
+    padding-left: 20px;
 }
 
 #mercikep{
@@ -145,12 +141,3 @@ header{
 .auditartalom{
     text-align: left;
 }
-
-#ismerteto{
-    text-align: left;
-}
-
-a{
-    text-decoration: none;
-}
-
