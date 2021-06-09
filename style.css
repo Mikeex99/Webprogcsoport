@@ -33,7 +33,7 @@ header{
     height: auto;
     left: 5%;
     position: absolute;
-    text-align: left;
+    text-align: center;
     font-size: 30px;
     padding-bottom: 30px;
     color: blanchedalmond;
@@ -75,6 +75,7 @@ header{
 }
 #mercikep{
     width: 30%;
+    float: left;
 }
 
 
