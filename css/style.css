@@ -132,11 +132,27 @@ header{
     float: left;
 }
 
-.auditartalom{
-    
+.img-audi{
+    height: 150px;
+    border: 1px solid gray;
+    border-radius: 6px;
+    padding: 6px;
+    background-color: white;
+    filter: grayscale(100%);
+    transition: all 3s;
 }
 
+.img-audi:hover{
+    box-shadow: 0 0 10px gray;
+    filter: grayscale(0%);
+    height: 165px;
+    transition: all 3s;
+    transform: translateY(10px);
+}
 
+a{
+    text-decoration: none;
+}
 
 
 
