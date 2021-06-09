@@ -45,6 +45,7 @@ header{
     padding: 10px;
     color: blanchedalmond;
     background-color: darkblue;
+    padding-bottom: 30px;
 }
 #bmwkep{
     width: 30%;
@@ -82,15 +83,15 @@ header{
 }
 #driftmerci{
     width: 30%;
-    padding: 10px;
     display: inline;
+    float: right;
     
 }
 #mercikep{
     width: 20%;
-    padding: 10px;
     display: inline;
 }
+
 .asd{
     display: inline;
 }
@@ -128,8 +129,12 @@ header{
 #audikep{
     padding-left: 10px;
     padding-right: 25px;
-    width: 30%;
+    width: 20%;
     float: left;
+}
+
+#audikepek{
+    padding-top: 20px;
 }
 
 .img-audi{
@@ -139,14 +144,15 @@ header{
     padding: 6px;
     background-color: white;
     filter: grayscale(100%);
-    transition: all 3s;
+    
 }
+
+
 
 .img-audi:hover{
     box-shadow: 0 0 10px gray;
     filter: grayscale(0%);
     height: 165px;
-    transition: all 3s;
     transform: translateY(10px);
 }
 
