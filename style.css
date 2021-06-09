@@ -76,23 +76,23 @@ header{
 
 
 #mercimotor{
-    width: 20%;
-    
+    width: 20%; 
     padding: 10px;
-    display: block;
+    
 }
 #driftmerci{
     width: 30%;
-   
     padding: 10px;
-    display: block;
+    display: inline;
     
 }
 #mercikep{
     width: 20%;
-   
     padding: 10px;
-    display: block;
+    display: inline;
+}
+.asd{
+    display: inline;
 }
 
 
