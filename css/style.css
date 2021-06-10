@@ -33,11 +33,12 @@ footer{
     bottom: 0px;
     width: 100%;
     left: 0%;
-    height: 30px;
+    height: 50px;
 }
 
 #footertartalom{
     margin: 3px auto;
+    text-align: center;
 }
 
 /*Képek*/
