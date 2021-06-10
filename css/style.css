@@ -55,6 +55,12 @@ footer{
     filter: grayscale(0%);
 }
 
+#rolunkkep{
+    width: 30%;
+    float: right;
+    padding-left: 10px;
+}
+
 /*Menü*/
 #rolunk{
     float: left;
