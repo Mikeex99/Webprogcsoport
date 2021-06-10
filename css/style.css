@@ -7,6 +7,10 @@ p{
     font-size: 100%;
 }
 
+a{
+    text-decoration: none;
+}
+
 h3{
     color: rgb(150, 120, 120);
 }
@@ -29,16 +33,28 @@ footer{
     background-color: black;
     color: whitesmoke;
     font-size: 20px;
-    text-align: center;
     position: fixed;
     bottom: 0px;
     width: 100%;
     left: 0%;
-    height: auto;
+    height: 46px;
 }
 
 .footerkepek{
-    padding: 3px 5px 0px;
+    padding: 0px 5px 0px;
+    text-align: right;
+}
+
+#footertartalom{
+    padding-left: 36%;
+    padding-right: 36%;
+
+}
+
+.egyeb{
+    float: left;
+    text-align: left;
+    padding-bottom: 0px;
 }
 
 /*Képek*/
