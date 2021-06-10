@@ -24,6 +24,7 @@ h3{
     margin-top: 100px;
 }
 
+/*Footer*/
 footer{
     background-color: black;
     color: whitesmoke;
@@ -33,15 +34,11 @@ footer{
     bottom: 0px;
     width: 100%;
     left: 0%;
-    height: 50px;
+    height: auto;
 }
 
-#footertartalom{
-    margin: 3px auto;
-    text-align: center;
-}
 .footerkepek{
-    padding: 2px;
+    padding: 3px 5px 0px;
 }
 
 /*Képek*/
