@@ -163,3 +163,23 @@ ul{
 .auditartalom{
     text-align: left;
 }
+
+
+#nemjo{
+    display: none;
+}
+
+
+@media all and (max-width:500px){
+    header,#tartalom,footer{
+        display: none;
+    }
+    
+    #nemjo{
+        display: block;
+        text-align: center;
+        font-size: 100px;
+    }
+}
+
+
